@@ -152,10 +152,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68389661a9a412448958ab83f56764a7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  blocks:
+  blockPrefabs:
   - {fileID: 4415728940531776896, guid: ba22bfa69499aca4eabd89243770f7d5, type: 3}
   - {fileID: 5111584994559452969, guid: 675a9a8afbe3b9e4cbb4909a497363e6, type: 3}
-  - {fileID: 1219531679215717700, guid: af0c7f861e871e945ae500a28e104c66, type: 3}
   - {fileID: 3098587883654661680, guid: 338fbdbecb8dcb04f9e3450e3b04b53f, type: 3}
   - {fileID: 2992133890069703521, guid: f0ac0685fab30ff4e9aa5b882ebb78e1, type: 3}
   - {fileID: 6666564020023834532, guid: a5643f978d85c914e8ec76d31a13ed80, type: 3}
@@ -390,7 +389,7 @@ GameObject:
   - component: {fileID: 705751061}
   - component: {fileID: 705751066}
   m_Layer: 0
-  m_Name: Plate
+  m_Name: Platform
   m_TagString: Attached
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
